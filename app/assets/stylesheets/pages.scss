@@ -1,0 +1,17 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+ul li{
+  display: inline;
+  color: white;
+}
+
+
+html { 
+  background: url(https://img1.etsystatic.com/004/0/7108286/il_fullxfull.358237107_6jbi.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
